@@ -4,10 +4,11 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 
 • Exploratory Data Analysis (EDA) & Pre-processing: Conducted comprehensive EDA to uncover patterns and correlations in the dataset. Cleaned and split the data, extracted relevant features & performed a range of class balancing techniques (including undersampling, oversampling & SMOTE).
 
-•  This image shows the class imbalance idenfified in the dataset
+• This image shows the class imbalance idenfified in the dataset
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/7a220a80-e5f7-40ee-93df-48246ea6e94f">
 
-•  This graph shows the Extracted the relevant features using Information Gain - the top ten used for modelling
+
+• This graph shows the Extracted the relevant features using Information Gain - the top ten used for modelling
 <img width="606" alt="image" src="https://github.com/user-attachments/assets/e4eff02a-3ca9-4f72-bd67-ac8f2e5da589">
 
 • Model Development: Implemented various machine learning models, such as Decision Tree, Random Forest, Support Vector Machine, Logistic Regression and an artificial neural network, to predict new B-cell epitopes. Evaluated model performance using metrics including balanced accuracy, precision, recall, and F1-score.
