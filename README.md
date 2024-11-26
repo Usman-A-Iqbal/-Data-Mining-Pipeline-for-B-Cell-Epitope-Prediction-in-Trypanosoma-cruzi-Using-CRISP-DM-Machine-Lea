@@ -4,7 +4,7 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 
 • Exploratory Data Analysis (EDA) & Pre-processing: Conducted comprehensive EDA to uncover patterns and correlations in the dataset. Cleaned and split the data, extracted relevant features & performed a range of class balancing techniques (including undersampling, oversampling & SMOTE).
 
-• This image shows the class imbalance idenfified in the dataset.
+• This image shows the class imbalance identified in the dataset.
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/7a220a80-e5f7-40ee-93df-48246ea6e94f">
 
 
