@@ -7,7 +7,6 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 •  This image shows the class imbalance idenfified in the dataset
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/7a220a80-e5f7-40ee-93df-48246ea6e94f">
 
-
 •  This graph shows the Extracted the relevant features using Information Gain - the top ten used for modelling
 <img width="606" alt="image" src="https://github.com/user-attachments/assets/e4eff02a-3ca9-4f72-bd67-ac8f2e5da589">
 
