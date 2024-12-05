@@ -17,10 +17,10 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/7a220a80-e5f7-40ee-93df-48246ea6e94f">
 
 
-• This graph shows the relevant features extracted using Information Gain - the top ten used for modelling.
+• Dimensionality reduction was performed using feature selection (filter method). This graph shows the relevant features extracted using Information Gain - the top ten used for modelling.
 <img width="606" alt="image" src="https://github.com/user-attachments/assets/e4eff02a-3ca9-4f72-bd67-ac8f2e5da589">
 
-• This images shows the the top 15 most important features used to diffrentiate between the classes in the Random forest model.
+• This images shows the the top 15 most important features used to diffrentiate between the classes in the Random forest model. In this case Feature selection was performed utalising an Embedded method.
 
 <img width="608" alt="image" src="https://github.com/user-attachments/assets/87c7a448-427f-4c71-b70f-a7ee1bee2d79">
 
