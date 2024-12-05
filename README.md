@@ -24,7 +24,6 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 
 <img width="608" alt="image" src="https://github.com/user-attachments/assets/87c7a448-427f-4c71-b70f-a7ee1bee2d79">
 
-
 • Model Development: Implemented various machine learning models, such as Decision Tree, Random Forest, Support Vector Machine, Logistic Regression and an artificial neural network, to predict new B-cell epitopes. Evaluated model performance using metrics including balanced accuracy, precision, recall, and F1-score.
 
 • Epitope Prediction: Developed a Pipeline with the best-performing model using a Functional programming approach in Python and applied the trained model to predict potential epitopes in T. cruzi proteins.
