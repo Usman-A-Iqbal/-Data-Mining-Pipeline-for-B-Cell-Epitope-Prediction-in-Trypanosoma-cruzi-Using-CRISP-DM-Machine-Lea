@@ -21,6 +21,7 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 <img width="606" alt="image" src="https://github.com/user-attachments/assets/e4eff02a-3ca9-4f72-bd67-ac8f2e5da589">
 
 • This images shows the the top 15 most important features used to diffrentiate between the classes in the Random forest model.
+
 <img width="608" alt="image" src="https://github.com/user-attachments/assets/87c7a448-427f-4c71-b70f-a7ee1bee2d79">
 
 
