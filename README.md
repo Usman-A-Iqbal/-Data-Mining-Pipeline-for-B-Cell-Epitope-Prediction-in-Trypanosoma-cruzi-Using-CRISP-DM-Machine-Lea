@@ -50,7 +50,7 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 
 # Getting Started
 
-To get started with this project, clone the repository:
+To get started with this project, clone the repository and upload to Google Colab:
 
 ```bash
 git clone <repository-url>
