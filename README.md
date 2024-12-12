@@ -48,3 +48,14 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 ## GPU hardware acceleration
 ## CRISP-DM methodology
 
+# Getting Started
+
+To get started with this project, clone the repository:
+
+```bash
+git clone <repository-url>
+cd <repository-name>
+```
+> Note: The notebook was deigned to run on Google Colab cloud service
+> > 
+
