@@ -40,8 +40,7 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 To get started with this project, clone the repository and upload to Google Colab:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Usman-A-Iqbal/Data-Mining-Pipeline-for-B-Cell-Epitope-Prediction-in-Trypanosoma-cruzi-Using-CRISP-DM
 ```
 > Note: The notebook was deigned to run on Google Colab cloud service
 > 
