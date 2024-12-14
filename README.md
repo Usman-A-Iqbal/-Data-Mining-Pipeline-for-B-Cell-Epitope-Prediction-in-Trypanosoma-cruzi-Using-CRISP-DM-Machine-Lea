@@ -22,7 +22,7 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 • Dimensionality reduction was performed using feature selection (filter method). This graph shows the relevant features extracted using Information Gain - the top ten used for modelling.
 <img width="606" alt="image" src="https://github.com/user-attachments/assets/e4eff02a-3ca9-4f72-bd67-ac8f2e5da589">
 
-• This graph shows the the top 15 most important features used to diffrentiate between the classes in the Random forest model. In this case Feature selection was performed utalising an Embedded method.
+• This graph shows the the top 15 most important features used to diffrentiate between the classes in the Random forest model. In this case Feature selection was performed utilising an embedded method.
 
 <img width="608" alt="image" src="https://github.com/user-attachments/assets/87c7a448-427f-4c71-b70f-a7ee1bee2d79">
 
@@ -37,7 +37,7 @@ Developed a computational pipeline, in Python, to predict potential B-cell epito
 
 # Getting Started
 
-To get started with this project, clone the repository and upload to Google Colab:
+To get started with this project, clone the repository:
 
 ```bash
 git clone https://github.com/Usman-A-Iqbal/Data-Mining-Pipeline-for-B-Cell-Epitope-Prediction-in-Trypanosoma-cruzi-Using-CRISP-DM
